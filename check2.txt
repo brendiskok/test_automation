@@ -8,5 +8,4 @@ Add
 addd
 =======
 next 
-I will add smth new
->>>>>>> a44a7d1463cd97e85977a8205ca208d6323dcfb7
+
